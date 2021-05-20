@@ -41,13 +41,8 @@
 
 ### 📱 Aplicação Responsiva
 
-   <img src="https://github.com/cleilsonjose/assets/blob/main/assets/SDSVENDAS/Dashboard-mobile1.png" alt="Dashboard-mobile1" height= "300">
+   <img src="https://github.com/cleilsonjose/assets/blob/main/assets/SDSVENDAS/Dashboard-mobile1.png" alt="Dashboard-mobile1" height= "300">  <img src="https://github.com/cleilsonjose/assets/blob/main/assets/SDSVENDAS/Dashboard-mobile2.png" alt="Dashboard-mobile2" height= "300"> <img src="https://github.com/cleilsonjose/assets/blob/main/assets/SDSVENDAS/home-mobile.png" alt="home-mobile" height= "300">
 
-   <img src="https://github.com/cleilsonjose/assets/blob/main/assets/SDSVENDAS/Dashboard-mobile2.png" alt="Dashboard-mobile2" height= "300">
-
-   <img src="https://github.com/cleilsonjose/assets/blob/main/assets/SDSVENDAS/home-mobile.png" alt="home-mobile" height= "300">
-
-  
  ## 📚 Estrutura de Camadas
  <img src="https://github.com/cleilsonjose/assets/blob/main/assets/SDSVENDAS/EstruturadeCamadas%20.png" alt="home-estrutura de camadas" height= "300">
  
