@@ -7,7 +7,8 @@
 </p>
 
 # 💻 Projeto
-<strong>SdsVendas</strong> é um dashboard de vendas feito  na semana spring react - SDS 3.0
+[SdsVendas](https://cleilson-sdsvendas.netlify.app) é um dashboard de vendas feito  na semana spring react - SDS 3.0
+
 
 ## 🛠 Tecnologias
 
@@ -74,7 +75,7 @@ http://localhost:3000
 ```
 
 ## 📄 Licença
-
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/cleilsonjose/sdsvendas/blob/main/LICENSE)
 
 
 
