@@ -33,13 +33,27 @@
 
 ## 🔖 Layout
 ### 🏠 Home Page
-![HOME](https://github.com/cleilsonjose/assets/blob/main/assets/SDSVENDAS/home.png)
-## ----------------------------------------------------------------------------------------------------
+
+<img src="https://github.com/cleilsonjose/assets/blob/main/assets/SDSVENDAS/home.png" alt="home"  height="300" />
+
 ### 🎯 Dashboard
-![HOME](https://github.com/cleilsonjose/assets/blob/main/assets/SDSVENDAS/Dashboard.png)
-## ----------------------------------------------------------------------------------------------------
+<img src="https://github.com/cleilsonjose/assets/blob/main/assets/SDSVENDAS/Dashboard.png" alt="dashboard"  height="300" />
+
 ### 📱 Aplicação Responsiva
-## ----------------------------------------------------------------------------------------------------
+
+   <img src="https://github.com/cleilsonjose/assets/blob/main/assets/SDSVENDAS/Dashboard-mobile1.png" alt="Dashboard-mobile1" height= "300">
+
+   <img src="https://github.com/cleilsonjose/assets/blob/main/assets/SDSVENDAS/Dashboard-mobile1.png" alt="Dashboard-mobile2" height= "300">
+
+   <img src="https://github.com/cleilsonjose/assets/blob/main/assets/SDSVENDAS/home-mobile.png" alt="home-mobile" height= "300">
+
+  
+ ## 📚 Estrutura de Camadas
+ <img src="https://github.com/cleilsonjose/assets/blob/main/assets/SDSVENDAS/EstruturadeCamadas%20.png" alt="home-estrutura de camadas" height= "300">
+ 
+ ## ✏️ Modelo Conceitual
+ <img src="https://github.com/cleilsonjose/assets/blob/main/assets/SDSVENDAS/modeloconceitual.png" alt="home-mobile" height= "200">
+
 ## 🚀 Como executar
 
 ### Back-End
