@@ -9,10 +9,7 @@
 # 💻 Projeto
 [SdsVendas](https://cleilson-sdsvendas.netlify.app) é um dashboard de vendas feito  na semana spring react - SDS 3.0
 
-
 ## 🛠 Tecnologias
-
-
 
 ## Backend
 *  Java
@@ -36,9 +33,13 @@
 
 ## 🔖 Layout
 ### 🏠 Home Page
+![HOME](https://github.com/cleilsonjose/assets/blob/main/assets/SDSVENDAS/home.png)
+## ----------------------------------------------------------------------------------------------------
 ### 🎯 Dashboard
+![HOME](https://github.com/cleilsonjose/assets/blob/main/assets/SDSVENDAS/Dashboard.png)
+## ----------------------------------------------------------------------------------------------------
 ### 📱 Aplicação Responsiva
-
+## ----------------------------------------------------------------------------------------------------
 ## 🚀 Como executar
 
 ### Back-End
