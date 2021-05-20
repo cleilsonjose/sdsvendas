@@ -56,7 +56,7 @@ Prerequisites: Java 11
 
 ```
 # Clone repository
-$ git clone https://github.com/GuilhermeProenca/projeto-sds3.git
+$ git clone https://github.com/cleilsonjose/sdsvendas.git
 
 # Enter the project back-end folder
 $ cd backend
@@ -69,7 +69,7 @@ $ ./mvnw spring-boot:run
 Prerequisites: npm or yarn
 ```
 # Clone repository
-$ git clone https://github.com/GuilhermeProenca/projeto-sds3.git
+$ git clone https://github.com/cleilsonjose/sdsvendas.git
 
 # Enter the project front-end folder
 $ cd frontend
