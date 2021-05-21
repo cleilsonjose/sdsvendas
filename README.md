@@ -6,19 +6,21 @@
   <a href="#-licença">Licença</a>
 </p>
 
-# 💻 Projeto
+# SDSVENDAS
+
+## 💻 Projeto
 [SdsVendas](https://cleilson-sdsvendas.netlify.app) é um dashboard de vendas feito  na semana spring react - SDS 3.0
 
 ## 🛠 Tecnologias
 
-## Backend
+### Backend
 *  Java
 * Spring Boot
 * Spring Data JPA
 * Spring Security
 * Maven
 
-## Frontend
+### Frontend
 * ReactJS
 * TypeScript
 * HTML
@@ -26,18 +28,15 @@
 * Bootstrap
 * Apex Charts
 
-## Implantação
+### Implantação
 * Backend: Heroku
 * Front-end: Netlify
 * Database: Postgresql 12
 
 ## 🔖 Layout
-### 🏠 Home Page
+### :computer: Web
 
-<img src="https://github.com/cleilsonjose/assets/blob/main/assets/SDSVENDAS/home.png" alt="home"  height="300" />
-
-### 🎯 Dashboard
-<img src="https://github.com/cleilsonjose/assets/blob/main/assets/SDSVENDAS/Dashboard.png" alt="dashboard"  height="300" />
+<img src="https://github.com/cleilsonjose/assets/blob/main/assets/SDSVENDAS/home.png" alt="home"  height="250" /> <img src="https://github.com/cleilsonjose/assets/blob/main/assets/SDSVENDAS/Dashboard.png" alt="dashboard"  height="250" /> 
 
 ### 📱 Aplicação Responsiva
 
@@ -52,7 +51,7 @@
 ## 🚀 Como executar
 
 ### Back-End
-Prerequisites: Java 11
+Pré-requisitos: Java 11
 
 ```
 # Clone repository
@@ -65,8 +64,8 @@ $ cd backend
 $ ./mvnw spring-boot:run
 ```
 
-## Front-End
-Prerequisites: npm or yarn
+### Front-End
+Pré-requisitos: npm or yarn
 ```
 # Clone repository
 $ git clone https://github.com/cleilsonjose/sdsvendas.git
